@@ -1,10 +1,10 @@
 <template>
     <div id="app">
-      <SelectRespuestas />
+        <Selects/>
     </div>
   </template>
   
   <script setup lang="ts">
-  import SelectRespuestas from '../components/SelectRespuestas.vue';
+  import Selects from '@/components/Selects.vue'
   </script>
   
